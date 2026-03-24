@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/deadlock.dir/link.d CMakeFiles/deadlock.dir/deadLock.cpp.o -o deadlock

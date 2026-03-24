@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter1_baseUse",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/base.dir/base1.cpp.o -c /home/xertion/Code/c+11thread/chapter1_baseUse/base1.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter1_baseUse/base1.cpp",
+  "output": "chapter1_baseUse/CMakeFiles/base.dir/base1.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter2_undefinedError",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/base2.dir/base2.cpp.o -c /home/xertion/Code/c+11thread/chapter2_undefinedError/base2.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter2_undefinedError/base2.cpp",
+  "output": "chapter2_undefinedError/CMakeFiles/base2.dir/base2.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter3_dataShared",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/base3.dir/dataShared.cpp.o -c /home/xertion/Code/c+11thread/chapter3_dataShared/dataShared.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter3_dataShared/dataShared.cpp",
+  "output": "chapter3_dataShared/CMakeFiles/base3.dir/dataShared.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter3_dataShared",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/deadlock.dir/deadLock.cpp.o -c /home/xertion/Code/c+11thread/chapter3_dataShared/deadLock.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter3_dataShared/deadLock.cpp",
+  "output": "chapter3_dataShared/CMakeFiles/deadlock.dir/deadLock.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter3_dataShared",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/lock.dir/lockSafe.cpp.o -c /home/xertion/Code/c+11thread/chapter3_dataShared/lockSafe.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter3_dataShared/lockSafe.cpp",
+  "output": "chapter3_dataShared/CMakeFiles/lock.dir/lockSafe.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter4_call_once",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/item4.dir/item4.cpp.o -c /home/xertion/Code/c+11thread/chapter4_call_once/item4.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter4_call_once/item4.cpp",
+  "output": "chapter4_call_once/CMakeFiles/item4.dir/item4.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter5_condition_variable",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/item5.dir/item5.cpp.o -c /home/xertion/Code/c+11thread/chapter5_condition_variable/item5.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter5_condition_variable/item5.cpp",
+  "output": "chapter5_condition_variable/CMakeFiles/item5.dir/item5.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter6_memoryPool",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/pool.dir/item6.cpp.o -c /home/xertion/Code/c+11thread/chapter6_memoryPool/item6.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter6_memoryPool/item6.cpp",
+  "output": "chapter6_memoryPool/CMakeFiles/pool.dir/item6.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter6_memoryPool",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/apply.dir/applyPool.cpp.o -c /home/xertion/Code/c+11thread/chapter6_memoryPool/applyPool.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter6_memoryPool/applyPool.cpp",
+  "output": "chapter6_memoryPool/CMakeFiles/apply.dir/applyPool.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter7_future_async",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/item7.dir/item7.cpp.o -c /home/xertion/Code/c+11thread/chapter7_future_async/item7.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter7_future_async/item7.cpp",
+  "output": "chapter7_future_async/CMakeFiles/item7.dir/item7.cpp.o"
+},
+{
+  "directory": "/home/xertion/Code/c+11thread/build/chapter8_atomic",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/item8.dir/item8.cpp.o -c /home/xertion/Code/c+11thread/chapter8_atomic/item8.cpp",
+  "file": "/home/xertion/Code/c+11thread/chapter8_atomic/item8.cpp",
+  "output": "chapter8_atomic/CMakeFiles/item8.dir/item8.cpp.o"
+}
+]

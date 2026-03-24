@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.15)
+project(c++11thread)
+
+add_subdirectory(chapter1_baseUse)
+add_subdirectory(chapter2_undefinedError)
+add_subdirectory(chapter3_dataShared)
+add_subdirectory(chapter4_call_once)
+add_subdirectory(chapter5_condition_variable)
+add_subdirectory(chapter6_memoryPool)
+add_subdirectory(chapter7_future_async)
+add_subdirectory(chapter8_atomic)

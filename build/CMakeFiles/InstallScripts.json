@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/xertion/Code/c+11thread/build/cmake_install.cmake",
+		"/home/xertion/Code/c+11thread/build/chapter1_baseUse/cmake_install.cmake",
+		"/home/xertion/Code/c+11thread/build/chapter2_undefinedError/cmake_install.cmake",
+		"/home/xertion/Code/c+11thread/build/chapter3_dataShared/cmake_install.cmake",
+		"/home/xertion/Code/c+11thread/build/chapter4_call_once/cmake_install.cmake",
+		"/home/xertion/Code/c+11thread/build/chapter5_condition_variable/cmake_install.cmake",
+		"/home/xertion/Code/c+11thread/build/chapter6_memoryPool/cmake_install.cmake",
+		"/home/xertion/Code/c+11thread/build/chapter7_future_async/cmake_install.cmake",
+		"/home/xertion/Code/c+11thread/build/chapter8_atomic/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
